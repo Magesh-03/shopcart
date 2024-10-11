@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1001,
+    "name": "On whey ",
+    "price": 2000,
+    "url": "https://target.scene7.com/is/image/Target/GUEST_de87e4b1-d26c-420a-a85d-10916faf6bfa?wid=800&hei=800&qlt=80&fmt=pjpeg"
+  },
+  {
+    "id": 1002,
+    "name": "Avatar Massgainer",
+    "price": 35000,
+    "url": "https://dietcenterstore.com/wp-content/uploads/2022/05/Avvatar-Muscle-Gainer-4.4-lbs-Belgian-Chocolate-768x768.jpg"
+  },
+  {
+    "id": 1003,
+    "name": "Muscleblze whey",
+    "price": 4000,
+    "url": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/uob5jrwsrhjwljqkkgvx.jpg"
+  },
+  {
+    "id": 1004,
+    "name": "Wellcore Creatine",
+    "price": 1200,
+    "url": "https://m.media-amazon.com/images/I/51FWl4eLpXL.jpg"
+  },
+
+  {
+    "id": 1005,
+    "name": "MB Pre workout",
+    "price": 1000,
+    "url": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/cb2a6ab9fb61498ab4deb566f864c00c.jpg"
+  }
+]
